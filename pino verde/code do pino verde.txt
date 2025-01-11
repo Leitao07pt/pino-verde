@@ -1,0 +1,16 @@
+/***********************************************
+ Programador...: (c) Guilherme Leitao
+ Data..........: 28/10/2024
+ Observações...: Pisca um LED verde
+ ***********************************************/
+
+//Inicializações
+void setup()    {	
+  pinMode(8, OUTPUT);
+}
+
+// Programa Principal
+void loop()  {
+  digitalWrite(8, HIGH);
+  //
+}
